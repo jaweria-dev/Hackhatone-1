@@ -1,0 +1,44 @@
+
+*{
+    background-color: #1d9ab9 ;
+}
+
+.news-img img{
+    display: block;
+    margin: auto;
+    height: 160px;
+    margin-top: 47px;
+}
+.h-primary h1{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    
+}
+
+.news-btn{
+    margin-left:199px;
+    margin-right: 199px;
+}
+
+.news-form{
+    border:2px solid rgb(42, 56, 175);
+    border-radius: 45px;
+
+}
+
+.news-btn2{
+    padding: 12px 60px;
+    margin: 37px 220px;
+    border-radius: 9px;
+    background-color: rgb(67, 67, 189);
+}
+.news-label{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
